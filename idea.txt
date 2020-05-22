@@ -1,0 +1,19 @@
+WELCOME TO THE NUMBER GAME!!!
+HI ALl!!....Our Game is designed to test your Mathematical and Logical skills.
+This game basically deals with the famous "2 power 'i' system" ,where players have to use their skills to set the upcoming blocks below those blocks which can add up to higher "2 power 'i' ".The blocks get added up to next higher poewer of 2 when they are equal to each other.
+
+For example a number 16 block is present and below that the player puts a block  of number 8 then he puts a block of number 4 below that. Now, if the user places a block of number 4 below it, 4+4 will add to 8 which in turn will add to give 16 and which in turn will add to give 32. 
+BINGOOOO!!!!!!
+
+
+       16 =>   16 =>  16 =>  16 =>  16 =>  32
+       8        8      8      8     16
+                4      4      8
+                       4
+
+Equal blocks that are beside each other also add up to get the next higher power of 2.
+
+You win if you create any one block that has value 2048!!
+
+Enter the world of numbers and test your skills...
+ALL THE BEST!!

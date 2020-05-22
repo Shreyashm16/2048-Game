@@ -1,0 +1,20 @@
+Linux/Mac Users:
+
+You need to have gcc installed. To run this game,enter the game folder, then just type gcc 2048.c and then enter ./a.out on the terminal.
+
+$gcc 2048.c
+$./a.out
+$...
+
+
+Windows Users:
+
+You can install any IDE which supports C language and run the game there, or you can use command prompt.
+Command Prompt=>
+Make sure that you have gcc installed. Now, open command prompt and navigate to the game folder. Next type 'gcc 2048.c' and then type 'gcc -o game 2048.c'.
+To start playing the game, enter 'game' on the command prompt.
+
+>gcc 2048.c
+>gcc -o game 2048.c
+>game
+>...
